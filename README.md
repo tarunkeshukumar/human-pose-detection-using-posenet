@@ -5,7 +5,7 @@ PoseNet is a computer vision model that enables real-time human pose estimation 
 
 This project demonstrates the implementation of PoseNet, a pose estimation model, using p5.js and ml5.js. It captures the video from the user's camera and uses PoseNet to detect human poses. Keypoints of the detected poses are visualized as ellipses, and the skeleton connections are drawn with a flowy gradient effect.
 
-#### Live at :  http://www.humanpose.com/
+#### Live at :  [humanpose](https://tarunkeshukumar.github.io/human-pose-detection-using-posenet/)
 
 
 ## Getting Started
